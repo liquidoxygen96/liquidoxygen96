@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liquidoxygen96
+- 👋 Hi, 
 - 👀 I’m interested in blockchain technology and social solutions 
 - 🌱 I’m currently learning Full-Stack development for web applications 
 - 💞️ I’m looking to collaborate on finance, engineering and social cyberneering 
