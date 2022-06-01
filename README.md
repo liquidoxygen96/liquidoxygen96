@@ -1,7 +1,7 @@
-- 👋 Hi, 
-- 👀 I’m interested in blockchain technology and social solutions 
-- 🌱 I’m currently learning Full-Stack development for web applications 
-- 💞️ I’m looking to collaborate on finance, engineering and social cyberneering 
+
+-  I’m interested in blockchain technology and social solutions 
+-  Currently learning Full-Stack development for web applications 
+- 💞️ I’m looking to collaborate on finance, engineering and social cyberneering
 - 📫 How to reach me: web42explorer@protonmail.com
 
 <!---
