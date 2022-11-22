@@ -1,3 +1,2 @@
-
--  I’m interested in blockchain technology and social solutions 
-- 💞️ I’m looking to collaborate on finance, engineering and social cyberneering
+- Interested in blockchain technology and social solutions 
+- Finance, engineering and social cyberneering collaborations are welcome
