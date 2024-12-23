@@ -1,2 +1,3 @@
 - Interested in blockchain technology and social solutions 
 - Finance, engineering and social cyberneering collaborations are welcome
+- BSc. Aerospace Engineering, Minor in public policy economics.
